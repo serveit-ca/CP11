@@ -3,6 +3,7 @@ CP 11 - Default Repo
 # 👋 About Me
 
 ## Name
+<<<<<< Evan_Branch
 Evan_warkentin
 
 ## 📧 Email
@@ -20,5 +21,4 @@ Evan.warkentin@hrastudent.ca
 ## 🎯 Goals for this Course
 - Learn how to think like a programmer
 - Learn how to computer program
-- Build code that works and has a use
-- Work better in a team
+- Build code that works and has a use 
