@@ -7,8 +7,7 @@ Complete the following tasks in Markdown. Use headings, lists, links, images, co
    ##Functional Programming in TypeScript##
 
 2. **Emphasis**  
-   - Write a short sentence about yourself.  
-   - Make **one word bold** and *one word italicized*.
+   I am a passionate follower of **Jesus** who loves *people* and *code*!
 
 3. **Lists**  
    - Create an unordered list of 3 hobbies.  
