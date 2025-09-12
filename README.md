@@ -1,22 +1,21 @@
-# CP11
-CP 11 - Default Repo
 # 👋 About Me
 
 ## Name
-Your Name Here
+Gabriel Lavaggi
 
 ## 📧 Email
-your.email@example.com
+Gabriel.Lavaggi@hrastudent.ca
 
 ## 🌐 GitHub Profile
-[My GitHub](https://github.com/your-username)
+[OkkieX0](https://github.com/OkkieX0)
 
 ## 💬 Discord Username
-`yourDiscordName#1234`
+`gabriel_87876`
 
 ## ✨ Short Bio / Fun Fact
-- Write 2–3 sentences about yourself here
-- Example: I love coding, playing guitar, and hiking.
+- I love lifting weights
+- I love programming
+- I love eating yummy food
 
 ## 🎯 Goals for this Course
 - Learn the basics of Markdown
