@@ -3,23 +3,23 @@ CP 11 - Default Repo
 # 👋 About Me
 
 ## Name
-Your Name Here
+<<<<<< Jaison_info_branch
+Jaison Jiji
 
 ## 📧 Email
-your.email@example.com
+jaison.jiji@hrastudent.ca
 
 ## 🌐 GitHub Profile
-[My GitHub](https://github.com/your-username)
+[Jaison Jiji] https://github.com/JaiJX
 
 ## 💬 Discord Username
-`yourDiscordName#1234`
+`jaij0012`
 
 ## ✨ Short Bio / Fun Fact
-- Write 2–3 sentences about yourself here
-- Example: I love coding, playing guitar, and hiking.
+- I love to tinker, code, and love to play badminton
 
 ## 🎯 Goals for this Course
-- Learn the basics of Markdown
-- Improve my programming skills
-- Build at least one project I’m proud of
-- Work better in a team
+- Learn Typescript
+- Build a cool project
+- Collaborate with friends
+- Build new thinking skills
