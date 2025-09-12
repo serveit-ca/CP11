@@ -21,4 +21,4 @@ Gabriel.Lavaggi@hrastudent.ca
 - Learn the basics of Markdown
 - Improve my programming skills
 - Build at least one project I’m proud of
-- Work better in a team
+- Work better together
