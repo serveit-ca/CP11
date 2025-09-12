@@ -15,7 +15,7 @@ jacob.raddatz@hrastudent.ca
 `Jacob`
 
 ## ✨ Short Bio / Fun Fact
-- I play guitar and vidio games. I also like coding. Math is my favorite core subject
+- I play guitar and vidio games. I also like coding. Math is my favorite core subject.
 
 ## 🎯 Goals for this Course
 - Learn how a computer thinks
