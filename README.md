@@ -1,5 +1,5 @@
 # 👋 About Me
-
+I love **Jesus** and believe that he will one day come back down to earth to meet with his *people*
 ## Name
 Gabriel Lavaggi
 
