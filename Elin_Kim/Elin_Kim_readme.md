@@ -15,7 +15,7 @@ youhyun.kim@hrastudent.ca
 ## ✨ Short Bio / Fun Fact
 - I'm 16.
 - I was born in South Korea.
-- I take size 250 shoes.
+- I take size 250 shoes
 
 ## 🎯 Goals for this Course
 - Learn to think 
