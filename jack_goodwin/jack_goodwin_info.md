@@ -1,8 +1,3 @@
-# CP11
-CP 11 - Default Repo
-
-# 👋 About Me
-
 ## Name
 "Jack Goodwin"
 
@@ -26,3 +21,6 @@ CP 11 - Default Repo
 - learn how hackers are able to opperate a command prompt screen.
 - build and program a computer.
 - Learn how computers actually work, and how to make them tick.
+
+
+
