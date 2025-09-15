@@ -15,10 +15,10 @@ youhyun.kim@hrastudent.ca
 ## ✨ Short Bio / Fun Fact
 - I'm 16.
 - I was born in South Korea.
-- I take size 250 shoes
+- My shoe size is 7.
 
 ## 🎯 Goals for this Course
-- Learn to think 
-- Improve my programming skills
+- Become familiar with using github and VS code 
+- Improve my programming skills and logical thinking skills
 - Build at least one project I’m proud of
 - Work better in a team
