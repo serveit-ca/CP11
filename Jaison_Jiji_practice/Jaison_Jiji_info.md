@@ -48,11 +48,11 @@ Complete the following tasks in Markdown. Use headings, lists, links, images, co
 
 8. **Table**  
    
-    |       Pyhton               |
-    |----------------------------|
-    | Really Easy to understand  |
-    | Lots of people use it      |
-    | Spacing Sensitive          |
+    |       Pyhton               | Second Coloum|
+    |----------------------------|-------------|
+    | Really Easy to understand  |             |
+    | Lots of people use it      |             |
+    | Spacing Sensitive          |             |
 
 9. **Checklist**  
    
