@@ -48,16 +48,16 @@ Complete the following tasks in Markdown. Use headings, lists, links, images, co
 
 8. **Table**  
    
-    |       Pyhton               | Second Coloum|
-    |----------------------------|-------------|
-    | Really Easy to understand  |             |
-    | Lots of people use it      |             |
-    | Spacing Sensitive          |             |
+    |       Languages learned    | Reason's why        |
+    |----------------------------|---------------------|
+    | Python                     | Easy to learn       |
+    | JavaScript                 | for functionality   |
+    | HTMl                       |Wanted to make a site|
 
 9. **Checklist**  
    
 
- - [ ] Focus on Shcool.
+ - [ ] Focus on School.
  - [x] Make new friends.
  - [x] Learn new things.
 
