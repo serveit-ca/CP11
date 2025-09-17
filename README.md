@@ -46,7 +46,6 @@ Inline: `print("Hello")`
 CP 11 - Default Repo
 # 👋 About Me
 
-<<<<<<< HEAD
 ## Image of my favourite animal
 https://cdn.pixabay.com/photo/2016/06/15/11/50/crocodile-1458819_1280.png
 
@@ -68,27 +67,27 @@ print("one day or day one?")
 ## Why markdown is useful for programmers
 - It helps programmers easily access the content of their code without the extra presentaion
 
-=======
+# 👋 About Me
+
 ## Name
-Your Name Here
+Gabriel Lavaggi
 
 ## 📧 Email
-your.email@example.com
+Gabriel.Lavaggi@hrastudent.ca
 
 ## 🌐 GitHub Profile
-[My GitHub](https://github.com/your-username)
+[OkkieX0](https://github.com/OkkieX0)
 
 ## 💬 Discord Username
-`yourDiscordName#1234`
+`gabriel_87876`
 
 ## ✨ Short Bio / Fun Fact
-- Write 2–3 sentences about yourself here
-- Example: I love coding, playing guitar, and hiking.
+- I love lifting weights
+- I love programming
+- I love eating yummy food
 
 ## 🎯 Goals for this Course
 - Learn the basics of Markdown
 - Improve my programming skills
 - Build at least one project I’m proud of
 - Work better in a team
-
->>>>>>> 02f425fb498ac83d3753c2af28c3ea824772c0a4
