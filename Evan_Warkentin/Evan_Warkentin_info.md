@@ -29,18 +29,18 @@ I am someone who like to go *mountain biking* a **lot**
    Inline  `print("Idk")`
   
   
-   ```Python `print("Hello, Markdown")` 
+   ```Python `print("Hello, Markdown!")` 
 
 7. **Blockquote**  
   `"Don't wait till the last minute to do your homework" -Sun Zhu, The art of war`
 
 8. **Table**  
-  
-  | Html                                    |
-  |-----------------------------------------|
-  | My friend says it isnt a coding language|
-  | I have never really programmed that much|
-  | It is probably really useful            |
+
+
+| simple math functions | complex math functions |
+|------|-----|
+| addition | binomials  |
+| subtraction  | trigonomitry  |
 
 9. **Checklist**  
 

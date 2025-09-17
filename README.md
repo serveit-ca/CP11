@@ -3,7 +3,7 @@ CP 11 - Default Repo
 # 👋 About Me
 
 ## Name
-<<<<<< Evan_Branch
+Evan_Branch
 Evan_warkentin
 
 ## 📧 Email
