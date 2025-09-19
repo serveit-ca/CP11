@@ -37,10 +37,10 @@ I am someone who like to go *mountain biking* a **lot**
 8. **Table**  
 
 
-| simple math functions | complex math functions |
+| simple math functions | complex math |
 |------|-----|
-| addition | binomials  |
-| subtraction  | trigonomitry  |
+| addition | calculus  |
+| subtraction  | trigonometry  |
 
 9. **Checklist**  
 
