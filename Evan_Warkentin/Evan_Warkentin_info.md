@@ -37,10 +37,10 @@ I am someone who like to go *mountain biking* a **lot**
 8. **Table**  
 
 
-| simple math functions | complex math |
+|Javacript  | c++ |
 |------|-----|
-| addition | calculus  |
-| subtraction  | trigonometry  |
+| seems pretty bad |  the best language |
+|  doesnt look like that good of a language | seems the most efficient  |
 
 9. **Checklist**  
 
