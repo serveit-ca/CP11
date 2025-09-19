@@ -1,6 +1,5 @@
-# Headings
-## Jacob Raddatz**
-### Math
+# Jacob Raddatz
+## Math
 
 ## Emphasis
 Im a follower of **Jesus** who loves *school*, *video games*, and *guitar*.
