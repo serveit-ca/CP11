@@ -2,6 +2,10 @@
 
 Complete the following tasks in Markdown. Use headings, lists, links, images, code blocks, blockquotes, and tables where appropriate.
 
+1. **Headings**  
+   **Jacob Raddatz**
+   **Math**
+   
 1. **Heading Practice**  
    - Write your full name as a level 1 heading.
    # Jackson Daniel Goodwin #
@@ -9,7 +13,7 @@ Complete the following tasks in Markdown. Use headings, lists, links, images, co
    ## History ##
 
 2. **Emphasis**  
-   - Write a short sentence about yourself.  
+   
    - Make **one word bold** and *one word italicized*.
 "**My** name is Jackson, but I *prefer* Jack. 
    
