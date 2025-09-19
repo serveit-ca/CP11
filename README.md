@@ -3,23 +3,22 @@ CP 11 - Default Repo
 # 👋 About Me
 
 ## Name
-Your Name Here
+Evan_Branch
+Evan_warkentin
 
 ## 📧 Email
-your.email@example.com
+Evan.warkentin@hrastudent.ca
 
 ## 🌐 GitHub Profile
-[My GitHub](https://github.com/your-username)
+[My GitHub](https://github.com/speedythief252)
 
 ## 💬 Discord Username
-`yourDiscordName#1234`
+`speedythief252`
 
 ## ✨ Short Bio / Fun Fact
-- Write 2–3 sentences about yourself here
-- Example: I love coding, playing guitar, and hiking.
+- I like to mountain bike, solve the rubik's cube, and play videogames. 
 
 ## 🎯 Goals for this Course
-- Learn the basics of Markdown
-- Improve my programming skills
-- Build at least one project I’m proud of
-- Work better in a team
+- Learn how to think like a programmer
+- Learn how to computer program
+- Build code that works and has a use 
