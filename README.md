@@ -53,12 +53,12 @@ https://cdn.pixabay.com/photo/2016/06/15/11/50/crocodile-1458819_1280.png
 ```python
 print("one day or day one?")
 ```
-```
-## Table
-   |name     | Language  | why liked         |
-   |---------|-----------|-------------------|
-   |Gabriel  | Javascript| Because it's cool |
 
+## Table
+   |name    | Language   |why liked              |
+   |---------|-----------|-----------------------|
+   |Gabriel  | Javascript| Because they are cool |
+   |Lavaggi  | Typescript| and fun               |
 ## Things i want to acomplish this year 
 - [] bench 225lb
 - [] deadlift 375lb
