@@ -2,6 +2,28 @@
 CP 11 - Default Repo
 # 👋 About Me
 
+
+## Name
+Zachary Kelsey 
+
+## 📧 Email
+zachary.kelsey@hrastudent.ca
+
+## 🌐 GitHub Profile
+[My GitHub]https://github.com/Zacharykelsey
+
+## 💬 Discord Username
+`mightbechromium`
+
+## ✨ Short Bio / Fun Fact
+- Hi, I am Zach. I am sixteen and I love learning about computers. Ever since I was little i was always fascinated by tech.
+
+## 🎯 Goals for this Course
+- Learn the basics of Markdown
+- Improve my programming skills
+- Build at least one project I’m proud of
+- Work better in a team
+
 ## Name
 
 Jaison Jiji
@@ -23,7 +45,8 @@ jaison.jiji@hrastudent.ca
 - Build a cool project
 - Collaborate with friends
 - Build new thinking skills
-=======
+
+
 Vinny
 
 ## 📧 Email
@@ -43,6 +66,8 @@ vincent.bedford@hrastudent.ca
 ## 🎯 Goals for this Course
 - Listen when the teacher is speaking and not be distracted
 - Improve my programming skills
+- Build at least one project I’m proud of
+- Work better in a team
 - Try my best to build at least one project
 - Get help and work as a team
 

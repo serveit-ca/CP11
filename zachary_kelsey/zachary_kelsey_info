@@ -1,0 +1,52 @@
+**Heading Practice**
+# Zachary Kelsey
+## Computer Programming
+
+**Emphasis Practice**
+I am 16, 6'5 and I **love** *computer programming*
+
+**Lists**
+- Gaming
+- Eating
+- Sleeping
+
+1. Mcdonalds
+2. Turkey Dinner
+3. Chicken Cordon Bleu
+
+**Links**
+- https://github.com/Zacharykelsey
+- https://scratch.mit.edu/
+
+**Image**
+
+![Alt text](https://www.shutterstock.com/image-photo/very-random-pose-asian-men-260nw-2423213779.jpg)
+*
+# Code
+
+**Inline:**
+
+`print("Hello")`
+
+**Python:**
+
+`print("Hello Markdown!)`
+
+**Blockquote**
+>13 I can do all this through him who gives me strength.
+
+**Table**
+| Programming Language | Why i like it |
+|------|-----|
+| Java | Minecraft  |
+| Markdown  | Simple  |
+| Lua | Im used to it |
+
+**Checklist**
+- [x] My Math Skills
+- [x] Get better at coding
+- [x] Be more productive
+
+**Markdown Paragraph**
+
+I think markdown is great because its strongest aspect is its simplicity. It is great for writing docs. 
