@@ -26,7 +26,7 @@ Inline: `print("hello")`
 ```python
 Block: print("hello, markdown")
 ```
-```
+
 
 ## Extras
 ```markdown
@@ -34,11 +34,9 @@ Block: print("hello, markdown")
 ```
 
 ## Table
-
-| JavaScript | I like its layout   |
+|  Code      |                Why  |
 |------------|---------------------|
 | TypeScript | Its Strait forward  |
-|------------|---------------------|
 | Markdown   | It has fun commands |
 
 - [ ] Get A's in all my core subjects
