@@ -48,7 +48,7 @@ print("Hello, world!")
 - [x] Completed task
 - [ ] Incomplete task
 
-| Java | Age |
+| Name | Age |
 |------|-----|
 | Alex | 17  |
 | Sam  | 16  |

@@ -3,7 +3,7 @@
 ## Computer Programming
 
 **Emphasis Practice**
-I am 16, 6'5 and I **love** computer *programming*
+I am 16, 6'5 and I **love** *computer programming*
 
 **Lists**
 - Gaming
@@ -21,10 +21,16 @@ I am 16, 6'5 and I **love** computer *programming*
 **Image**
 
 ![Alt text](https://www.shutterstock.com/image-photo/very-random-pose-asian-men-260nw-2423213779.jpg)
+*
+# Code
 
-**Code**
+**Inline:**
 
 `print("Hello")`
+
+**Python:**
+
+`print("Hello Markdown!)`
 
 **Blockquote**
 >13 I can do all this through him who gives me strength.
@@ -39,30 +45,8 @@ I am 16, 6'5 and I **love** computer *programming*
 **Checklist**
 - [x] My Math Skills
 - [x] Get better at coding
-- [x] Be mroe productive
+- [x] Be more productive
 
 **Markdown Paragraph**
 
 I think markdown is great because its strongest aspect is its simplicity. It is great for writing docs. 
-# 👋 About Me
-
-## Name
-"Zachary Kelsey"
-
-## 📧 Email
-zachary.kelsey@hrastudent.ca
-
-## 🌐 GitHub Profile
-[My GitHub]https://github.com/Zacharykelsey
-
-## 💬 Discord Username
-`mightbechromium`
-
-## ✨ Short Bio / Fun Fact
-- Hi, I am Zach. I am sixteen and I love learning about computers. Ever since I was little i was always fascinated by tech.
-
-## 🎯 Goals for this Course
-- Learn the basics of Markdown
-- Improve my programming skills
-- Build at least one project I’m proud of
-- Work better in a team
