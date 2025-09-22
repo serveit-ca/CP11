@@ -1,7 +1,7 @@
 # CP11
 CP 11 - Default Repo
 # 👋 About Me
-
+I'm from South Korea
 ## Name
 David
 
