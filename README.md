@@ -15,8 +15,7 @@ usol.kwon@hrastudent.ca
 `David#1089`
 
 ## ✨ Short Bio / Fun Fact
- I like eating
- I like watching soccer game.
+ I like eating. I also like watching soccer.
 
 ## 🎯 Goals for this Course
 - Learn the basics of Markdown and understanding it.
