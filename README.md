@@ -47,8 +47,23 @@ CP 11 - Default Repo
 
 
 # 👋 About Me
-
+I'm from South Korea. I like playing games.
 ## Name
+
+David Kwon
+
+## 📧 Email
+usol.kwon@hrastudent.ca
+
+## 🌐 GitHub Profile
+[My GitHub](https://github.com/David1223123)
+
+## 💬 Discord Username
+`David#1089`
+
+## ✨ Short Bio / Fun Fact
+ I like eating. I also like watching soccer
+ 
 "Jack Goodwin"
 
 ## 📧 Email
@@ -128,13 +143,13 @@ zachary.kelsey@hrastudent.ca
 `mightbechromium`
 
 ## ✨ Short Bio / Fun Fact
-- Hi, I am Zach. I am sixteen and I love learning about computers. Ever since I was little i was always fascinated by tech.
+- Hi, I am Zach. I am sixteen and I love learning about computers. Ever since I was little i was always fascinated by tech
 
 ## 🎯 Goals for this Course
-- Learn the basics of Markdown
+- Learn the basics of Markdown and understanding it.
 - Improve my programming skills
-- Build at least one project I’m proud of
 - Work better in a team
+- Learn English
 
 # 👋 About Me
 I play guitar and video games
